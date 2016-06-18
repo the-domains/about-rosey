@@ -1,0 +1,14 @@
+layout_spectrum: 0.4948415
+typography_spectrum: 0.6140835
+color:
+  saturation: 0.2584991
+  lightness: 0.7333723
+  brandStrength: 0.2862283
+  rhythmicContrast: 0.02600881
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+name: About Rosey
